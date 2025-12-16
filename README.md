@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TailAdmin - Free Tailwind Admin Dashboard Template
 
 TailAdmin is a high-quality, open-source, and **free Tailwind CSS admin template** that is perfect for creating data-rich backends,
@@ -154,3 +155,6 @@ The community edition of TailAdmin is released under the MIT License.
 ## Support
 
 If you find this project helpful, please consider giving it a star on GitHub. Your support helps us continue developing and maintaining this template.
+=======
+# giefa-dashboard
+>>>>>>> d40d913a6295b5a956dc509d1997a3e4840d26e5
